@@ -1,4 +1,4 @@
-<img src="images/header.png" width="1000px" height="200px">
+<img src="images/header.png" width="1000px" height="400px">
 
 <h3 align="center">AI Engineer</h3>
 
