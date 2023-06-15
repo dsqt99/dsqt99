@@ -1,3 +1,5 @@
+![Alt text](images/header.png)
+
 <h3 align="center">AI Engineer</h3>
 
 <p align="justify">
@@ -11,13 +13,12 @@
 <br>
 
 ### <img src="images/stats.gif" width="30px"> ***About Me***
-- 👋 I'm always eager to learn new things day by day
-- 👯 I'm really interested in applying AI as well as IoT to address real world problems
-- 🔭 I’m looking for a team to research and develop promising products
+- <img src="images/pen.png" width="18px"> I'm always eager to learn new things day by day
+- 👯 I'm really interested in science and technology in the world
 - ⚡ Fun fact: I'm really into soccer and my favorite team is FC Bayern Munich <img src="images/FCB_logo.png" width="20px">
 <br>
 
-### ***💻 Tech Stack***
+### ***💻 Tech Skills***
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ### ***📊 GitHub Profile Stats***
