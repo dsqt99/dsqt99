@@ -1,4 +1,4 @@
-![Alt text](images/header.png)
+<img src="images/header.png" width="1000px" height="200px">
 
 <h3 align="center">AI Engineer</h3>
 
@@ -7,7 +7,7 @@
     I'm trying to gain foundational knowledge and skills in artificial intelligence such as machine learning, deep learning, natural language processing, and computer vision. By acquiring these skills, an AI engineer can become proficient in designing, developing, and implementing AI-based solutions. Ultimately, my objective is to establish a strong foundation in AI and to develop the skills necessary to excel in this rapidly evolving field.
   </em> 
   <br>
-  <img src="images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Work hard in silence, let your success be your noise!”</i></b> <img src="images/dog_1.gif" width="50" />
+  <b><i><h3 align="center">Thought : "Work hard in silence, let your success be your noise!”</h3></i></b>
 </p>
 
 <br>
