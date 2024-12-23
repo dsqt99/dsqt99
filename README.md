@@ -33,7 +33,7 @@
   <i>Let's connect and chat! Nice to meet you.</i>
 
   <p align="center">
-    	<code><a href="https://www.facebook.com/DSQT1999"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+    	<code><a href="https://www.facebook.com/dsqt99"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
 	<code><a href="https://www.linkedin.com/in/dsqt1999/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
 	<code><a href="mailto:haimanhdo1999@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>
